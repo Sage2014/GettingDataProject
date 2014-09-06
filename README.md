@@ -1,6 +1,6 @@
 ! This run_analysis.R script does the following:
-STEP 1 - DOWNLOAD THIS DATASET from UCI - https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-STEP 2 - UNZIP AND READS SEVERAL DETAILED DATA TABLES, including
+!STEP 1 - DOWNLOAD THIS DATASET from UCI - https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+!STEP 2 - UNZIP AND READS SEVERAL DETAILED DATA TABLES, including
 	/test/X_test.txt
 	/train/X_train.txt
 	###activity_labels.txt"
