@@ -9,7 +9,7 @@ In this Repository you will find 4 files:
 	#####(3) TidyData.txt - This is what the script produces when you run it. Apparently, it is supposed to have 6 rows per subject, and there are 30 subjects in the experiment (total of 180 rows): In our forums they said all subjects completed all activities, and I did confirm this looking at the original raw data file.
 	#####(4) This ReadMe.md file - Trying to make it as helpful as possible.
 
-I appreciate all hints and tips you can provide in your feedback!
+I'm brand new to R, and Github, and all this - so any helpful hints and tips you can provide in your feedback are very much appreciated!
 
 Happy Grading!
 
