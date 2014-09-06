@@ -9,8 +9,8 @@
 	###test/subject_test.txt"
 	###/train/subject_train.txt"
 	###features.txt
-###STEP 3 - COMBINE DATA AND ADD LABELS 
-###STEP 4 - MERGE THE TRAINING AND TEST DATA
+###STEP 3 - Add labels 
+###STEP 4 - Merge the train and test data into a single table
 ###STEP 5 - Create a smaller table with only the variables we need
 ###STEP 6 - Use Aggregate to calculate means by subject and activity, and export to a text file
 
